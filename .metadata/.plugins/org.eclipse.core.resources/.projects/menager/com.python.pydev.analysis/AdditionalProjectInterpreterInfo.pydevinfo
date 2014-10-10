@@ -1,0 +1,67 @@
+-- VERSION_4
+-- START DISKCACHE
+/home/m4rc1n88/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/menager/com.python.pydev.analysis/v2_indexcache
+menager_ui|1411115523000|/home/m4rc1n88/workspace/menager/menager_ui.py
+menager_v2|1411117328000|/home/m4rc1n88/workspace/menager/menager_v2.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+13=MenagerWindow.updateProcess
+10=MenagerWindow.__init__
+4=ProcessTableModel.__init__
+1=menager_ui
+11=Ui_MainWindow.setupUi
+5=MenagerWindow
+12=WatekTest.__init__
+3=ProcessTableModel.update
+9=Ui_MainWindow
+8=WatekTest
+6=ProcessTableModel
+14=MenagerWindow.refreshProcessInformation
+7=WatekTestSignal
+2=menager_v2
+-- END DICTIONARY
+-- START TREE 1
+7
+_en|2|_encoding!11@_encoding!19@
+_fr|4|_fromUtf8!18@_fromUtf8!19@_fromUtf8!11@_fromUtf8!10@
+_tr|2|_translate!10@_translate!18@
+men|1|MenagerWindow!17@
+pro|1|ProcessTableModel!17@
+ui_|1|Ui_MainWindow!9@
+wat|2|WatekTestSignal!17@WatekTest!17@
+-- END TREE
+-- START TREE 2
+31
+__d|2|__data!3&19@__data!4&19@
+__h|1|__headers!4&19@
+__i|5|__init__!5&18@__init__!6&18@__init__!7&18@__init__!8&18@__init__!9&10@
+_mo|1|_model!10&19@
+_pr|1|_proxyModel!10&19@
+act|1|actionUpdateProcess!10&19@
+app|2|app!9&11@app!5&19@
+cen|1|centralwidget!11&11@
+col|1|columnCount!6&18@
+dat|2|data!12&19@data!6&18@
+fla|1|flags!6&18@
+get|1|getProcessInformation!5&18@
+hea|1|headerData!6&18@
+hor|2|horizontalLayout!11&11@horizontalLayout_2!11&11@
+pro|1|procesFilter!5&18@
+qwt|1|qwtPlot!11&11@
+ref|1|refreshProcessInformation!5&18@
+ret|1|retranslateUi!9&10@
+row|1|rowCount!6&18@
+run|2|run!7&18@run!8&18@
+set|1|setupUi!9&10@
+sig|1|signalUpdateProcess!7&19@
+tab|4|tab_2!11&11@tab!11&11@tableData0!10&19@tabWidget!11&11@
+uif|2|uiFillterProcess!11&11@uiFillterUser!11&11@
+uir|1|uiRefreshButton!11&11@
+uit|1|uiTable!11&11@
+upd|3|update!6&18@updateProcess!5&18@updated!5&18@
+use|1|userFilter!5&18@
+ver|2|verticalLayout_2!11&11@verticalLayout!11&11@
+wat|2|watek!13&19@watek!14&19@
+wnd|2|wnd!5&19@wnd!9&11@
+-- END TREE

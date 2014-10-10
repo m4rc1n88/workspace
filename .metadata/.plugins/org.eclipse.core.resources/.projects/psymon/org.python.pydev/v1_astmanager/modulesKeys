@@ -1,0 +1,11 @@
+MODULES_MANAGER_V2
+psymondatapack.__init__|/home/m4rc1n88/workspace/psymon/psymondatapack/__init__.py
+psymondatapack.cpuplotter|/home/m4rc1n88/workspace/psymon/psymondatapack/cpuplotter.py
+psymondatapack.diskplotter|/home/m4rc1n88/workspace/psymon/psymondatapack/diskplotter.py
+psymondatapack.main_window|/home/m4rc1n88/workspace/psymon/psymondatapack/main_window.py
+psymondatapack.memoryplotter|/home/m4rc1n88/workspace/psymon/psymondatapack/memoryplotter.py
+psymondatapack.networkplotter|/home/m4rc1n88/workspace/psymon/psymondatapack/networkplotter.py
+psymondatapack.proc_details_plotter|/home/m4rc1n88/workspace/psymon/psymondatapack/proc_details_plotter.py
+psymondatapack.psymon_about|/home/m4rc1n88/workspace/psymon/psymondatapack/psymon_about.py
+psymondatapack.psymon_help|/home/m4rc1n88/workspace/psymon/psymondatapack/psymon_help.py
+psymondatapack.psymon_settings|/home/m4rc1n88/workspace/psymon/psymondatapack/psymon_settings.py
